@@ -1,0 +1,44 @@
+# Hi, I'm Baraka 
+
+I am a Data Analyst with a background in Cybersecurity, focused on turning data into insights using SQL, Python, and Excel.
+
+## Skills
+
+- SQL (PostgreSQL)
+- Python (Pandas, Data Analysis)
+- Excel (Pivot Tables, Dashboards)
+- Data Visualization
+- Log Analysis (Security Data)
+
+## Projects
+
+### 1. Amazon Review Sentiment Analysis
+- Used SQL and Python to analyze customer reviews
+- Applied sentiment analysis using VADER
+- Identified patterns in positive vs negative feedback
+
+### 2. CRM Sales Dashboard
+- Built an Excel dashboard analyzing sales performance
+- Identified top products and sales agents
+- Calculated win rate and revenue trends
+
+### 3. Coffee Shop Sales Analysis
+- Analyzed 140,000+ transactions
+- Identified peak hours and top product categories
+- Built interactive pivot dashboards
+
+### 4. Security Log Analysis
+- Analyzed 6,000,000 log entries
+- Identified suspicious IP activity and traffic patterns
+- Used SQL and Python for investigation
+
+## Interests
+
+- Data Analytics
+- Cybersecurity (SOC Analysis)
+- Business Intelligence
+
+## Connect with me
+
+LinkedIn: https://www.linkedin.com/in/baraka-mukungu-5a649a384/
+GitHub: https://github.com/barakamukungu
