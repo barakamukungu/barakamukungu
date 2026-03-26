@@ -7,6 +7,7 @@ I am a Data Analyst with a background in Cybersecurity, focused on turning data 
 - SQL (PostgreSQL)
 - Python (Pandas, Data Analysis)
 - Excel (Pivot Tables, Dashboards)
+- Tableau (Interactive dashboards, Data modeling, KPI development)
 - Data Visualization
 - Log Analysis (Security Data)
 
