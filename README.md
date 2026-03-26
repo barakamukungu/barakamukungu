@@ -1,6 +1,6 @@
 # Hi, I'm Baraka 
 
-I am a Data Analyst with a background in Cybersecurity, focused on turning data into insights using SQL, Python, and Excel.
+I am a Data Analyst with a background in Cybersecurity, focused on turning data into insights using SQL, Python, Tableau, and Excel.
 
 ## Skills
 
